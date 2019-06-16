@@ -1,3 +1,5 @@
-## IV
-Instrumental Variables in Python (2SLS)
+## IV <br>
 
+Instrumental Variables in Python (2SLS) <br>
+
+Matthias Müllner / Peter Habiger 
